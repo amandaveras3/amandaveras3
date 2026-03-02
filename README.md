@@ -2,22 +2,27 @@
   <img src="1.png" width="900"/>
 </p>
 
-# Sobre Mim
+## Sobre Mim
 Olá! Me chamo **Amanda Veras** 👋  
 Sou estudante da área de **Desenvolvimento de Sistemas**, com foco em programação, lógica e construção de projetos práticos.
 
-🎓 Formação técnica com experiência em:
+## 🎓 Formação técnica com experiência em:
+
 - Desenvolvimento Web
 - Programação Orientada a Objetos
 - Banco de Dados
 - Eletrônica e Arduino (Projetos no Tinkercad)
 
-🚀 Atualmente focada em:
-- Evoluir como desenvolvedora Backend
-- Criar projetos práticos e funcionais
-- Aprimorar boas práticas e arquitetura de código
-  
-# Ferramentas Utilizadas
+## 🛠️ Habilidades
+
+✔️ Lógica de Programação  
+✔️ Programação Orientada a Objetos  
+✔️ Desenvolvimento Web  
+✔️ Modelagem de Banco de Dados  
+✔️ Integração Front-end e Back-end  
+✔️ Versionamento com Git e GitHub
+
+## 👩‍💻 Ferramentas Utilizadas
 
 <div align="center">
 
@@ -55,19 +60,17 @@ Sou estudante da área de **Desenvolvimento de Sistemas**, com foco em programa�
   <img src="19.png" width="200" style="margin:5px;"/>
 </div>
 
-## 📊 Estatísticas
+## 📊 Contribuições
 
 <div align="center">
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amandaveras3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaveras3&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandaveras3&theme=github" />
 
 </div>
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/SEULINK
+- 💼 LinkedIn: https://www.linkedin.com/in/amandafelixveras
 - 📧 Email: felixverasamanda@email.com
 
 <p align="center" style="margin-top: 40px;">
