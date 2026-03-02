@@ -2,7 +2,7 @@
   <img src="1.png" width="900"/>
 </p>
 
-## Sobre Mim
+## 🌸 Sobre Mim
 Olá! Me chamo **Amanda Veras** 👋  
 Sou estudante da área de **Desenvolvimento de Sistemas**, com foco em programação, lógica e construção de projetos práticos.
 
