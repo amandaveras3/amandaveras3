@@ -55,6 +55,21 @@ Sou estudante da área de **Desenvolvimento de Sistemas**, com foco em programa�
   <img src="19.png" width="200" style="margin:5px;"/>
 </div>
 
+## 📊 Estatísticas
+
+<div align="center">
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amandaveras3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaveras3&layout=compact&theme=tokyonight"/>
+
+</div>
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://linkedin.com/in/SEULINK
+- 📧 Email: felixverasamanda@email.com
+
 <p align="center" style="margin-top: 40px;">
   <img src="2.png" width="900"/>
 </p>
