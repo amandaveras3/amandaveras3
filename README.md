@@ -60,6 +60,30 @@ Sou estudante da área de **Desenvolvimento de Sistemas**, com foco em programa�
   <img src="19.png" width="200" style="margin:5px;"/>
 </div>
 
+## 🧩 Metodologias
+
+- ✔️ Programação Orientada a Objetos (POO)
+- ✔️ Clean Code
+- ✔️ Versionamento com Git Flow
+- ✔️ Organização de projetos em camadas (MVC)
+
+## 🧪 Experiência com Projetos Acadêmicos
+
+Durante minha formação técnica, desenvolvi projetos práticos envolvendo:
+
+- 🔐 Sistemas de automação com Arduino
+- 🌐 Aplicações Web completas
+- 🗄️ Modelagem e manipulação de banco de dados
+- 📊 Uso do Monitor Serial para análise de dados
+
+## 🔐 Áreas de Interesse
+
+- Desenvolvimento Full Stack
+- Backend com Java e Laravel
+- Banco de Dados
+- Arquitetura de Software
+- Automação e IoT
+  
 ## 📊 Contribuições
 
 <div align="center">
