@@ -4,7 +4,7 @@
 
 # Sobre Mim
 Olá! Me chamo **Amanda Veras** 👋  
-Sou estudante da área de **Desenvolvimento de Software**, com foco em programação, lógica e construção de projetos práticos.
+Sou estudante da área de **Desenvolvimento de Sistemas**, com foco em programação, lógica e construção de projetos práticos.
 
 🎓 Formação técnica com experiência em:
 - Desenvolvimento Web
