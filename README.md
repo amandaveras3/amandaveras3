@@ -1,16 +1,43 @@
-## Hi there 👋
+<p align="center" style="margin-bottom: 30px;">
+  <img src="1.png" width="900"/>
+</p>
 
-<!--
-**amandaveras3/amandaveras3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <img src="3.png" width="350" style="margin:10px;"/>
+  <img src="4.png" width="350" style="margin:10px;"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/>
+
+  <img src="5.png" width="350" style="margin:10px;"/>
+  <img src="6.png" width="350" style="margin:10px;"/>
+  <img src="7.png" width="350" style="margin:10px;"/>
+
+  <br/>
+
+  <img src="8.png" width="350" style="margin:10px;"/>
+  <img src="9.png" width="350" style="margin:10px;"/>
+  <img src="10.png" width="350" style="margin:10px;"/>
+
+  <br/>
+
+  <img src="11.png" width="350" style="margin:10px;"/>
+  <img src="12.png" width="350" style="margin:10px;"/>
+  <img src="13.png" width="350" style="margin:10px;"/>
+
+  <br/>
+
+  <img src="14.png" width="350" style="margin:10px;"/>
+  <img src="15.png" width="350" style="margin:10px;"/>
+  <img src="16.png" width="350" style="margin:10px;"/>
+
+  <br/>
+
+  <img src="17.png" width="350" style="margin:10px;"/>
+  <img src="18.png" width="350" style="margin:10px;"/>
+  <img src="19.png" width="350" style="margin:10px;"/>
+</div>
+
+<p align="center" style="margin-top: 40px;">
+  <img src="2.png" width="900"/>
+</p>
