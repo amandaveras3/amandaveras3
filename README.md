@@ -15,12 +15,12 @@ Sou estudante da área de **Desenvolvimento de Sistemas**, com foco em programa�
 
 ## 🛠️ Habilidades
 
-✔️ Lógica de Programação  
-✔️ Programação Orientada a Objetos  
-✔️ Desenvolvimento Web  
-✔️ Modelagem de Banco de Dados  
-✔️ Integração Front-end e Back-end  
-✔️ Versionamento com Git e GitHub
+- ✔️ Lógica de Programação  
+- ✔️ Programação Orientada a Objetos  
+- ✔️ Desenvolvimento Web  
+- ✔️ Modelagem de Banco de Dados  
+- ✔️ Integração Front-end e Back-end  
+- ✔️ Versionamento com Git e GitHub
 
 ## 👩‍💻 Ferramentas Utilizadas
 
