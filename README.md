@@ -62,10 +62,10 @@ Sou estudante da área de **Desenvolvimento de Sistemas**, com foco em programa�
 
 ## 🧩 Metodologias
 
-✔️ Programação Orientada a Objetos (POO)
-✔️ Clean Code
-✔️ Versionamento com Git Flow
-✔️ Organização de projetos em camadas (MVC)
+  ✔️ Programação Orientada a Objetos (POO)
+  ✔️ Clean Code
+  ✔️ Versionamento com Git Flow
+  ✔️ Organização de projetos em camadas (MVC)
 
 ## 🧪 Experiência com Projetos Acadêmicos
 
